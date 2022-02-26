@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the booke called Observations of the old and new militia: with certaine statutes produced for the chusing of his Majesties sheriffes, and other officers, in every county of England and Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75426</idno>
+            <idno type="STC">Wing A3392</idno>
+            <idno type="STC">Thomason E116_4</idno>
+            <idno type="STC">ESTC R18360</idno>
+            <idno type="EEBO-CITATION">99860393</idno>
+            <idno type="PROQUEST">99860393</idno>
+            <idno type="VID">156030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156030)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E116[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the booke called Observations of the old and new militia: with certaine statutes produced for the chusing of his Majesties sheriffes, and other officers, in every county of England and Wales.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 6. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Militia old and new.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Militia --  Early works to 1800.</term>
+               <term>Militia old and new --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156030:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE BOOKE CALLED Obſervations of the old and new MILITIA: WITH CERTAINE STAT<g ref="char:V">Ʋ</g>TES produced for the chuſing of his Majeſties She<g ref="char:EOLhyphen"/>riffes, and other Officers, in every COUNTY of ENGLAND AND WALES.</p>
+            <p>London printed for <hi>W.G. Sept.</hi> 6. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156030:2"/>
+            <pb n="3" facs="tcp:156030:2"/>
+            <head>An Anſwer to the MILITIA OLD AND NEVV.</head>
+            <p n="1">1. <seg rend="decorInit">H</seg>EE ſaith the Counties were committed to Earles to govern and defend.</p>
+            <p>What then? From whom had they Com<g ref="char:EOLhyphen"/>miſſion? Who knowes not that the Sheriffe in effect ſupplies his place now, and yet it makes nothing for him.</p>
+            <p n="2">2 He ſaith the Peers in Parliament were to judge of any wrong done by the King to His Subjects.</p>
+            <p>Howſoever it was then, we know no other wayes of redreſſe now, but by petition, the King might have been ſued by Writ as a common perſon; but it is otherwiſe now, witneſſe <hi>Bracton, li.</hi> 1. <hi>Ca,</hi> 8. <hi>fo.</hi> 5. ſo 22. <hi>Ed.</hi> 3. <hi>fo.</hi> 3. which ſee in the latter end at large.</p>
+            <p>Next he comes to ſhew by whom Officers were anciently choſen For the Tythingman, and Conſtable, it is the ſame in effect ſtill, but what makes that for him.</p>
+            <p>And what followes if all this were true concerning choſing Coroners, Sheriffes, Lieutenants, Chancellour, Treaſurer, &amp;c.</p>
+            <p n="1">1. For firſt in divers of theſe caſes the Common-Law is clearely altered by Statute.</p>
+            <p n="2">2. Suppoſe it were not, pray afford your Soveraigne as much Prerogative as you will a poore Townſhip. If a pri<g ref="char:EOLhyphen"/>vate perſon take upon him to repaire a Bridge, or a Cauſey freely, which belongs of right to be maintained by the Inha<g ref="char:EOLhyphen"/>bitants,
+<pb n="6" facs="tcp:156030:3"/>yet he having done it freely from time, beyond the memory of man, he ſhall now be compelled to doe it. And I beleeve the Scriblers Grandfather, if he were now alive, could not remember but the contrary hath been in uſe for the placing of Officers.</p>
+            <p n="3">3. I am yet of that opinion, that all the power of executi<g ref="char:EOLhyphen"/>on of Juſtice is in the King, according to the conſtitution of our Common-wealth, and that whatſoever authority is in the Subject for execution of Juſtice, is but derivative from him, 12. <hi>Hen.</hi> 7. <hi>fol.</hi> 18. <hi>Kitch. fo.</hi> 4.</p>
+            <p>If men would be ſatisfied with reaſon, it were eaſie to give inſtances enough.</p>
+            <p>All Writs, Proces, which are the foundations of Juſtice, are to iſſue in the Kings name, even to determine right be<g ref="char:EOLhyphen"/>twixt Subject and Subject.</p>
+            <p>The Juſtices of both Benches, and Barons of the Exche<g ref="char:EOLhyphen"/>quer, who are to ſee Juſtice done in his Majeſties name, are made by his Writ. Iuſtices of peace who are to execute ju<g ref="char:EOLhyphen"/>ſtice according to the Law, yet it is meerely by Commiſſion from the King, and in his name, and by power delegated from him, and no otherwiſe. Should we inſtance in Maiors, or other Officers in Corporations, choſen by the Commo<g ref="char:EOLhyphen"/>nalty, yet I hope the Commonalty had the power by Patent from the King, and ſo are beholding to him. And withall the Officers of their making, are but Miniſters to the King, to execute juſtice in his name. So for Coroners and Sherifes, the one made by the Kings Writ, the other by his Patent, but neither of them to doe their own pleaſure, but to be Miniſters of juſtice to him, and in his name.</p>
+            <p>Should we deſcend to meaner Officers, Conſtables are conſervators, or keepers of the peace, but of whoſe? of the Kings peace doubtleſſe.</p>
+            <p>But our Author ſaith further, that it was petitioned in Par<g ref="char:EOLhyphen"/>liament,
+<pb n="3" facs="tcp:156030:3"/>that the great Officers of the Kingdome might bee choſen in Parliament.</p>
+            <p>
+               <hi>Anſw.</hi> Be it ſo: Petitions are not alwayes granted, and himſelfe makes a <hi>Quae<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi>
+            </p>
+            <p>What then? Yet I hope they never dreamt but to allow the King a negative voice, at leaſt in caſe he ſhewed cauſe of the ill election of any officer, and ſo our Author is as farre wide of the mark as ever.</p>
+            <p>
+               <hi>Our Rimer having ſhewed the ancient Conſtitution of the King<g ref="char:EOLhyphen"/>dome, comes to a Moderne.</hi>
+            </p>
+            <p>But being moſt of it little to the purpoſe, we will only ob<g ref="char:EOLhyphen"/>ſerve his wiſeſt paſſages.</p>
+            <p>He confeſſeth now the choyce of Sheriffes is committed to the Lord Chancellour, Treaſurer, &amp;c. But after he hath made a <hi>quaere,</hi> whether if this choice ſhould faile in time or place, whether it were good or no; he then makes a ſilly ob<g ref="char:EOLhyphen"/>jection, thus, Doth not the King uſually make and appoint Sheriffes of every County, by his prerogative, this weake and ſilly objection like himſelf, he frames to the ſame as ſilly an anſwer.</p>
+            <p>For be it ſo that the King cannot by Law make any one Sheriffe by his Patent, except he be firſt choſen according to the Statute of <hi>Lincolne:</hi> yet Sir you come ſhort of your pur<g ref="char:EOLhyphen"/>poſe, for what Logick is this?</p>
+            <p>The King cannot legally by his Patent make a Sheriffe, ex<g ref="char:EOLhyphen"/>cept he be firſt choſen according to the Statute of <hi>Lincolne. Ergo,</hi> if the Sheriffe be not choſen according to the Statute of <hi>Lincolne,</hi> the County may make one: for the difference is ap<g ref="char:EOLhyphen"/>parent between chooſing and making of a Sheriffe, the latter being done only by the Kings Letters Patent.</p>
+            <p>But beſides Sir, was it ever ſo ſince Sheriffes executed that office of truſt as Miniſters to His Majeſty, that they were placed in office by the County without the Royall aſſent?</p>
+            <pb n="6" facs="tcp:156030:4"/>
+            <p>How abſurd a thing were this? They are to execute the Kings Proces, to keep the Kings peace, to give account of his Revenues in their Counties, due by forfeitures, outlawes, waifes, eſtrayes, &amp;c. and yet the King ſhall have no hand in chooſing him; how abſurdly doth this man talke?</p>
+            <p>But he makes a further <hi>quaere,</hi> whether if no Sheriffe be le<g ref="char:EOLhyphen"/>gally choſen, whether the Free-holders may not chooſe one.</p>
+            <p>He thinkes they may: Let us ſee his Reaſons.</p>
+            <p n="1">1. Otherwiſe there will be a failing of Juſtice.</p>
+            <p>If he meanes by failing of Juſtice, a neglecting of the or<g ref="char:EOLhyphen"/>derly way for chooſing Sheriffes, it is true: but if he meanes a failing of execution of Juſtice to be done in the County for want of a legall chooſing of a Sheriffe, it is queſtionable, as being poſſible, that a Sheriffe made only by the Patent of the King may execute Juſtice in the County, although he want a legall chooſing:</p>
+            <p>His ſecond reaſon is, becauſe the Statute is the affirmative, and ſo alters not the Common Law</p>
+            <p>What an argument is here taken upon truſt, for though in ſome caſes it may peradventure hold, yet common experience ſhewes the rule to be very far from being univerſall.</p>
+            <p>What ſay you to the Statutes which gave <hi>Ceſtuy que uſe</hi> power to make Leaſes? Was not the Canon Law altered which would not ſuffer him to make any before.</p>
+            <p>But it will be ſaid, this tooke not away the power of the Feoffees, but that they might ſtill make Leaſes.</p>
+            <p>Thats not the matter, for in the former point there was plainly an alteration by a Statute in the affirmative.</p>
+            <p>But what ſayes he to the Statute of 27. <hi>Hen.</hi> 8. which ſayes the State and poſſeſſion in Land ſhall be fully <hi>in Ceſtuy uſe,</hi> in the ſame manner as the uſe is. I hope by this affirmative Sta<g ref="char:EOLhyphen"/>tute Canon Law was clearely altered, which adjudged the ſtate and right to be in the Feoffees.</p>
+            <pb n="7" facs="tcp:156030:4"/>
+            <q>It is now no time to trace him in the reſt, ſo I ſhall let him have his minde till another time.</q>
+            <p>Only I will adde the words of <hi>Bracton</hi> in anſwer to his po<g ref="char:EOLhyphen"/>ſition laid down in the beginning, That the Peers in Parlia<g ref="char:EOLhyphen"/>ment were Judges of all wrong done by the King to any of his Subjects.</p>
+            <p>The words of <hi>Bracton</hi> are theſe, <hi>li.</hi> 1. <hi>ca.</hi> 8. <hi>fo.</hi> 5.</p>
+            <q>IPſe autem Rex non debet eſſe ſub homine, ſed ſub Deo, &amp; ſcd ſub lege, quia lex facit Regein, attribuit igitur Rex legi, quod lex attribuit ei, <hi>viz.</hi> Dominationem &amp; poteſtatem, non eſt enim Rex ubi dominatur voluntas, &amp; non lex, &amp; quod ſub lege eſſe debeat, cum ſit Dei vicarius, evidenter apparet ad ſimi<g ref="char:EOLhyphen"/>litudinem Jeſu Chriſti.</q>
+            <p>
+               <hi>And a little after,</hi> Sic ergo Rex ne poteſtas ſua maneat infre<g ref="char:EOLhyphen"/>nata igitur non debet eſſe major eo in regno ſuo, in exhibitione juris, minimus autem eſſe debet, vel quaſi injudicio ſuſcipiendo ſi petat. Si autem ab eo petitur (cum breve non careat contra ipſum) locus erit ſupplicatione quod factum ſuum corrigat, &amp; e<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d &amp; quod quidem ſi non fecerit, ſatis ſufficit ei ad penam quod domi<g ref="char:EOLhyphen"/>num. Nemo quidem de factis ſuis preſumat diſputare, multo for<g ref="char:EOLhyphen"/>tius contra factum ſuum venire. <hi>In Engliſh thus. But the King ought not to be under man, but under God, and under the Law, becauſe the Law maketh the King, Therefore the King attributes the ſame to the Law, which the Law attributes to the King, to wit, Rule, and Power, &amp;c.</hi>
+            </p>
+            <pb n="8" facs="tcp:156030:5"/>
+            <p>
+               <hi>According to which ſaying of</hi> Bracton, <hi>it was ſaid 22.</hi> Ed. <hi>3.</hi> fol. <hi>3. That the King makes the Lawes by the aſſents of the Peeres and Commons, and not made by the Peers and Com<g ref="char:EOLhyphen"/>mons only; And that the King hath no Peere in his owne Land, and that the King ought not to be judged by them.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
